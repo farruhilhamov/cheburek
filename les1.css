@@ -1,0 +1,69 @@
+header {
+    color: rgb(44, 194, 24);
+      text-align: center;
+  }
+body {
+    background-color: rgb(19, 19, 19); 
+  }
+section {
+    text-align:center;
+    color: rgb(77, 207, 17);
+    background-color: rgb(31, 31, 31); 
+    border-radius: 10px;
+    font-family: monospace;
+    margin: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    
+    display: flex; /* Makes the content witin this element flexible */
+  
+    display: -webkit-flex; /* vendor prefix */  
+  
+    margin: 50px auto; /* Adds spacing at top of all sections and then centers them */
+  
+    width: 680px; /* approximate width of each section */
+  
+  }
+li {
+    margin: 1%;
+    padding:1%;
+    text-align: left;
+  }
+footer {
+    text-align: center;
+    color: rgb(226, 35, 1);
+    background-color: rgb(43, 43, 43); 
+  }
+img {
+    text-align:center;
+    align-content: center;
+    border-radius:10px;
+    width: 500px;
+  }
+  .building {
+    text-align: center;
+  }
+  .a {
+    text-align:center;
+    color: rgb(77, 207, 17);
+    background-color: rgb(31, 31, 31); 
+    border-radius: 10px;
+    font-family: monospace;
+    margin: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: grey ;
+    border: 5px;
+    width: 250px;   
+    height: 20px;
+    border-style: outset;
+    border-width: 3px;
+    border-color: rgba(2, 68, 2, 0.699);
+
+  }
+  a {
+    color: rgb(44, 194, 24);
+    width: 7px;
+    text-align: center;
+      }
